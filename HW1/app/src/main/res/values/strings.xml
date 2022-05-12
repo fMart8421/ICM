@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Homework 1</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="call">Call</string>
+    <string name="delete_number">Del</string>
+    <string name="phone_input">Phone</string>
+    <string name="name_input">Name</string>
+    <string name="save_input">Save</string>
+    <string name="contact1">-</string>
+    <string name="contact2">-</string>
+    <string name="contact3">-</string>
+
+</resources>
